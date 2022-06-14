@@ -13,6 +13,7 @@ ul{
 li{
     border: 2px solid teal;
     background-color: wheat;
+    width: 45px;
     padding: 5px;
     margin: 20px;
 }
