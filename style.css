@@ -1,0 +1,21 @@
+body{
+    display:flex;
+    text-align: center;
+    justify-content:center;
+}
+ul{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    list-style-type: none;
+    width: 500px;
+}
+li{
+    border: 2px solid teal;
+    background-color: wheat;
+    padding: 5px;
+    margin: 20px;
+}
+a{
+    text-decoration: none; /* removes underline */
+}
